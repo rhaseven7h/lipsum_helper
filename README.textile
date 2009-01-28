@@ -1,0 +1,12 @@
+h1. LipsumHelper
+
+Lorem Ipsum text generator helper for Ruby On Rails
+
+h2. Example
+
+In your view just use something like:
+
+  lipsum(:paragraphs => 2, :sentences_per_paragraph => 12, :words_per_sentence => 7)
+
+
+Copyright (c) 2009 Gabriel Medina, released under the MIT license
