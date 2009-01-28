@@ -6,7 +6,7 @@ h1. How To Install
 
 Install like a regular plugin, at your rails root directory:
 
-  script/plugin install git://github.com/rha7dotcom/lipsum_helper.git
+  $ ruby script/plugin install git://github.com/rha7dotcom/lipsum_helper.git
 
 h1. How To Use
 
