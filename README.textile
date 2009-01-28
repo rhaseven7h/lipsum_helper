@@ -16,19 +16,19 @@ In your view just use something like:
 
 This generates text like the following:
 
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus, est nec aliquam lacinia, quam risus 
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus, est nec aliquam lacinia, quam risus 
   pellentesque ipsum, porttitor dignissim ligula diam vel magna. Pellentesque vel eros faucibus pede laoreet 
   ullamcorper. Nulla vulputate, dolor id vestibulum venenatis, diam enim pellentesque metus, sit amet laoreet nisl 
   augue non neque. Donec consequat diam sit amet est. Proin sapien nulla, rhoncus lacinia, convallis ut, pretium in, 
   neque. Aliquam dui nisi, tincidunt a, eleifend in, ornare ut, lacus. Pellentesque dignissim auctor massa. Praesent 
   posuere mattis nulla. Nunc id orci eu mauris consectetur placerat. Morbi eleifend felis sit amet lacus. Suspendisse 
   lectus. Fusce iaculis ligula at ipsum. Nulla risus arcu, auctor nec, congue sed, volutpat sit amet, quam. Duis 
-  aliquet vehicula nulla.&lt;/p&gt;
+  aliquet vehicula nulla.</p>
 
-  &lt;p&gt;Aenean porttitor ante. Donec id libero ut urna aliquam ultrices. Phasellus tristique aliquam metus. Nulla nec nibh et 
+  <p>Aenean porttitor ante. Donec id libero ut urna aliquam ultrices. Phasellus tristique aliquam metus. Nulla nec nibh et 
   nibh sodales feugiat. Aenean faucibus libero in est. Proin sodales, libero pellentesque tristique rutrum, nisi eros 
   aliquam tortor, vel porttitor turpis urna sed felis. Maecenas pharetra. Etiam consectetur nunc id quam posuere 
   dignissim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sodales 
-  varius erat. Donec nibh. Nulla facilisi. Nullam quam. Suspendisse potenti. Curabitur a augue. Proin ante.&lt;/p&gt;
+  varius erat. Donec nibh. Nulla facilisi. Nullam quam. Suspendisse potenti. Curabitur a augue. Proin ante.</p>
 
 Copyright (c) 2009 Gabriel Medina, released under the MIT license
