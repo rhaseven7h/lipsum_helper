@@ -2,7 +2,13 @@ h1. LipsumHelper
 
 Lorem Ipsum text generator helper for Ruby On Rails
 
-h2. Example
+h1. How To Install
+
+Install like a regular plugin, at your rails root directory:
+
+  script/plugin install git://github.com/rha7dotcom/lipsum_helper.git
+
+h1. How To Use
 
 In your view just use something like:
 
