@@ -16,7 +16,8 @@ In your view just use something like:
 
 This generates text like the following:
 
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus, est nec aliquam lacinia, quam risus 
+<pre>
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus, est nec aliquam lacinia, quam risus 
   pellentesque ipsum, porttitor dignissim ligula diam vel magna. Pellentesque vel eros faucibus pede laoreet 
   ullamcorper. Nulla vulputate, dolor id vestibulum venenatis, diam enim pellentesque metus, sit amet laoreet nisl 
   augue non neque. Donec consequat diam sit amet est. Proin sapien nulla, rhoncus lacinia, convallis ut, pretium in, 
@@ -30,5 +31,6 @@ This generates text like the following:
   aliquam tortor, vel porttitor turpis urna sed felis. Maecenas pharetra. Etiam consectetur nunc id quam posuere 
   dignissim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sodales 
   varius erat. Donec nibh. Nulla facilisi. Nullam quam. Suspendisse potenti. Curabitur a augue. Proin ante.</p>
+</pre>
 
 Copyright (c) 2009 Gabriel Medina, released under the MIT license
