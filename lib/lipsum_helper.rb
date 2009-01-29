@@ -1,7 +1,7 @@
 # LipsumHelper
 
 module LipsumHelper
-	def lipsum(params)
+	def lipsum(params={})
 		# Set defaults
 		paragraphs = params[:paragraphs] || 3
 		sentences_per_paragraph = params[:sentences_per_paragraph] || 5
